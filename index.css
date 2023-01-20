@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #1F2937;
 }
 
 #hero{
@@ -17,9 +19,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #1F2937;
-    width: auto;
-    height: 100%;
 }
 
 #header{
